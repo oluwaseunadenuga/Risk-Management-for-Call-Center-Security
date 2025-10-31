@@ -1,7 +1,5 @@
 # Implementing Risk-Management Strategies for a Call Center Security
 
-# Vulnerability Management Program Implementation
-
 In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 
 _**Inception State:**_ the organisation has no existing policy or vulnerability management practices in place.
