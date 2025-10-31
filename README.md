@@ -10,6 +10,8 @@ _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secure
 ---
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/4a09bcda-8c65-46db-a13e-689258e44397" />
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/370d40a9-4720-4cc1-9a4c-24e8f4568bc2" />
+
 
 # Technology Utilised
 - Tenable (enterprise vulnerability management platform)
