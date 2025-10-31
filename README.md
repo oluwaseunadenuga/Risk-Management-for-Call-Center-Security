@@ -1,5 +1,6 @@
 # Implementing Risk-Management Strategies for a Call Center Security
 
+
 In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 
 _**Inception State:**_ the organisation has no existing policy or vulnerability management practices in place.
@@ -7,8 +8,8 @@ _**Inception State:**_ the organisation has no existing policy or vulnerability 
 _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secured and a full cycle of organisation-wide vulnerability remediation is completed.
 
 ---
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/4a09bcda-8c65-46db-a13e-689258e44397" />
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/cfc5dbcf-3fcb-4a71-9c13-2a49f8bab3e6">
 
 # Technology Utilised
 - Tenable (enterprise vulnerability management platform)
