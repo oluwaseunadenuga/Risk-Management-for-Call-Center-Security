@@ -9,6 +9,7 @@ _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secure
 
 ---
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/4a09bcda-8c65-46db-a13e-689258e44397" />
+<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/0c8737e7-59f4-43e8-ad9d-742c2b423840" />
 
 
 # Technology Utilised
