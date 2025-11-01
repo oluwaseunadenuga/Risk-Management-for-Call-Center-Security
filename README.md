@@ -63,11 +63,10 @@ Call centers handle sensitive customer and business information, making them a t
 ---
 
 ### Hardware Risk Assessment
- Here are the risk sources, vulnerabilities, Threats, and Current Controls for identified hardware assets
+Based on the Asset Inventory above, here are identified hardware assets risk sources, vulnerabilities, threats and current controls.
 
 <img width="1492" height="355" alt="image" src="https://github.com/user-attachments/assets/04256a45-0701-47b3-ba79-d22912426914" />
 
-<img width="1666" height="373" alt="image" src="https://github.com/user-attachments/assets/bb2b9979-139e-4555-a868-b01091d283c6" />
 
 ---
 
