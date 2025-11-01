@@ -8,8 +8,6 @@ _**Inception State:**_ the organisation has no existing policy or vulnerability 
 _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secured and a full cycle of organisation-wide vulnerability remediation is completed.
 
 ---
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/4a09bcda-8c65-46db-a13e-689258e44397" />
-
 <img width="2048" height="1127" alt="image" src="https://github.com/user-attachments/assets/73c4c696-52b4-4a11-8cf0-3ac62e46999b" />
 
 # Technology Utilised
