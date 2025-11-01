@@ -10,20 +10,20 @@ Call centers handle sensitive customer and business information, making them a t
 
 # Objectives
 - The goal of the risk assessment is to help the client prioritise and implement strong security protocols for their organisation’s call center operation by identifying potential threats that may disrupt the call center’s operations, analyse identified risks and evaluating the approach to manage them methodically.
-- 
+
 ---
 # Tasks
-1. Perform a Risk Assessment:
+1. **Perform a Risk Assessment:**
 - Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
 - Analyse the identified risks by assessing their likelihood and potential impact on business operations.
 - Prioritise the risks by evaluating their severity to determine which require immediate attention.
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
 
-2. Prepare a Risk Treatment Plan Request:
+2.**Prepare a Risk Treatment Plan Request:**
 - Based on your assessment, draft a formal request for risk treatment, directed to the appropriate departments (e.g., IT, HR, Operations).
 - Include clear recommendations for reducing or eliminating the identified risks, such as introducing new security measures, revising policies, or training staff.
 
-3. Prepare Risk Assessment Report and Risk Treatment Plan Request
+3. **Prepare Risk Assessment Report and Risk Treatment Plan Request**
  - Create a comprehensive document that details the identified risks, their likelihood and their potential impact on the call center.
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
