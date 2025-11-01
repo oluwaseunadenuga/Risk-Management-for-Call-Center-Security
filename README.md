@@ -2,11 +2,11 @@
 <img width="2048" height="1127" alt="image" src="https://github.com/user-attachments/assets/73c4c696-52b4-4a11-8cf0-3ac62e46999b" />
 
 # Introduction 
- This project focuses on implementing strong security protocols for call center operations. This includes conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
+ This project focuses on implementing strong security protocols for a call center operation. This includes conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
 
 ---
 # Problem Statement
-The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
+Call centers handle sensitive customer and business information, making them a target for security threats such as unauthorised access, data breaches and system failures. Currently, there is no comprehensive framework in place to safeguard data and ensure secure operations. This exposes the organisation to risks including data loss, reputational damage, operational downtime and regulatory non-compliance. Emerging threats, remote work setups and third-party integrations further increase the center’s vulnerability. A structured risk assessment is needed to identify, analyse, and prioritise these risks effectively. The findings will guide the implementation of strong security protocols to protect customer data, ensure compliance and maintain business continuity.
 
 # Objectives
 - The goal of the risk assessment is to help the client prioritise and implement strong security protocols for their organisation’s call center operation. By identifying potential threats that may disrupt the call center’s operations, analyse identified risks and evaluating the approach to manage them methodically.
