@@ -9,14 +9,12 @@
 The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
 
 # Objectives
-- Tenable (enterprise vulnerability management platform)
-- Azure Virtual Machines (Nessus scan engine + scan targets)
-- PowerShell & BASH (remediation scripts)
-
+- The goal of the risk assessment is to help the client prioritise and implement strong security protocols for their organisation’s call center operation. By identifying potential threats that may disrupt the call center’s operations, analyse identified risks and evaluating the approach to manage them methodically.
+- 
 ---
 # Tasks
 1. Perform a Risk Assessment:
-- Identify potential threats that may disrupt the call center’s operations, such as unauthorized access to customer information, system failures, or regulatory compliance issues.
+- Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
 - Analyse the identified risks by assessing their likelihood and potential impact on business operations.
 - Prioritise the risks by evaluating their severity to determine which require immediate attention.
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
