@@ -29,16 +29,38 @@ Call centers handle sensitive customer and business information, making them a t
 
 ### Identification of Critical Assets
 
-This phase focuses on drafting a Vulnerability Management Policy as a starting point for stakeholder engagement and collaboration. The initial draft outlines scope, responsibilities and remediation timelines. It may be adjusted based on feedback from relevant departments to ensure practical implementation before final approval by upper management.  
-[Draft Policy](https://docs.google.com/document/d/1j4WyDX3NXpOiAb-_8i-t_xvLJj5v0F6W/edit)
-Based on the problem statement, the following critical assets were identified as requiring protection. The compromise of these assets could lead to significant operational, financial, and reputational damage to the organisation.
-- **Confidential Customer Data: Personal and sensitive information belonging to customers.**
-- Sensitive Information: Intellectual property, internal communications, and strategic plans.**
-- **Proprietary Business Information: Internal data that provides a competitive advantage.**
-- **Financial Information: Company financial records, transaction data, and banking details.**
-- **Intellectual Property: Patents, trade secrets, designs, and proprietary software.**
-- Customer Data: Personally Identifiable Information (PII) and financial records.** 
-- ** Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.**
+1. Assets in a Call Center
+**Hardware**
+Workstations (Computers)
+Telephony systems (PBX, VoIP Phones)
+Servers (Database, Web, Application)
+Network devices (Routers, Switches, Firewalls)
+Mobile devices (Tablets, Smartphones)
+Printers, Scanners
+Power backup systems (UPS, Generators)
+
+**Systems**
+Customer Relationship Management (CRM) Systems
+Call Management Systems
+Workforce Management Systems
+VoIP Systems
+Email Systems
+Monitoring and Logging Systems
+
+**Software**
+Operating Systems (Windows, Linux)
+Anti-virus and Anti-malware Software
+Office Productivity Software
+Customer Service Applications
+Custom Business Applications
+Database Management Systems
+
+**People**
+Call Handlers
+Agents (Call Center Representatives)
+Supervisors
+IT Support Staff
+System Administrators
 
 ---
 
