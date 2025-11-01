@@ -35,7 +35,7 @@ Call centers handle sensitive customer and business information, making them a t
 - Servers (Database, Web, Application)
 - Network devices (Routers, Switches, Firewalls)
 - Mobile devices (Tablets, Smartphones)
-- Printers, Scanners
+- Printers, Scanners and Fax Machines
 - Power backup systems (UPS, Generators)
 
 **Systems**
@@ -50,13 +50,12 @@ Call centers handle sensitive customer and business information, making them a t
 - Operating Systems (Windows, Linux)
 - Anti-virus and Anti-malware Software
 - Office Productivity Software
- - Customer Service Applications
+- Customer Service Applications
 - Custom Business Applications
 - Database Management Systems
 
 **People**
-- Call Handlers
-- Agents (Call Center Representatives)
+- Call Handlers / Agents (Call Center Representatives)
 - Supervisors
 - IT Support Staff
  -System Administrators
