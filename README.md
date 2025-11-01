@@ -27,7 +27,7 @@ Call centers handle sensitive customer and business information, making them a t
  - Create a comprehensive document that details the identified risks, their likelihood and their potential impact on the call center.
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
-### Assets Inventory
+### 1.0 Assets Inventory
 
 **Hardware**
 - Workstations (Computers)
@@ -61,15 +61,20 @@ Call centers handle sensitive customer and business information, making them a t
  -System Administrators
 
 ---
-## Colour Coding Legend
+## 2. Colour Coding Legend
 <img width="682" height="135" alt="Colour Coding Legend" src="https://github.com/user-attachments/assets/4b5a5e56-06c8-41a9-b163-cc41d73253ae" />
+Risk Score (R) is calculated as $L \times I$. Risk tolerance dictates that scores of 15-25 (Red) are Intolerable and require immediate treatment.
 
-Based on the Asset Inventory above, here are identified hardware assets risk sources, vulnerabilities, threats and current controls.
-
-### Hardware Risk Assessment
-Based on the Asset Inventory above, here are identified hardware assets risk sources, vulnerabilities, threats and current controls.
+### 3. Comprehensive Risk Register Summary
+The following table summarises all identified risks, their scores, and their potential impact on call centre operations, regulatory compliance, and business continuity.
 <img width="1828" height="776" alt="image" src="https://github.com/user-attachments/assets/4cc2f0d0-5966-492c-9b51-6cb5f9d4bbc8" />
 <img width="1834" height="786" alt="image" src="https://github.com/user-attachments/assets/a574fb2a-c087-4601-9562-a869ba43605a" />
 <img width="1830" height="606" alt="image" src="https://github.com/user-attachments/assets/55906fcc-5ac6-409c-ae09-d10559b1c717" />
 
+### 4. Formal Request for High-Priority Risk Treatment (Score >=16)
 
+TO: Head of IT Infrastructure, Head of Human Resources (HR), Head of Call Centre Operations
+FROM: [Your Name/GRC Department]
+SUBJECT: URGENT ACTION REQUIRED: Treatment of Extreme Risks (Score>=16)
+
+This section formally communicates the two Extreme Risks that require immediate, prioritized, and funded treatment plans. The departments listed below are mandated to collaborate to reduce the residual risk score for these items to a score of 8 (High) or lower within the next 6 months.
