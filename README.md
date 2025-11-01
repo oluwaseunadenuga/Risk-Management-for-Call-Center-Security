@@ -68,3 +68,8 @@ Based on the Asset Inventory above, here are identified hardware assets risk sou
 
 ### Hardware Risk Assessment
 Based on the Asset Inventory above, here are identified hardware assets risk sources, vulnerabilities, threats and current controls.
+<img width="1828" height="776" alt="image" src="https://github.com/user-attachments/assets/4cc2f0d0-5966-492c-9b51-6cb5f9d4bbc8" />
+<img width="1834" height="786" alt="image" src="https://github.com/user-attachments/assets/a574fb2a-c087-4601-9562-a869ba43605a" />
+<img width="1830" height="606" alt="image" src="https://github.com/user-attachments/assets/55906fcc-5ac6-409c-ae09-d10559b1c717" />
+
+
