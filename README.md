@@ -73,5 +73,6 @@ Based on the Asset Inventory above, here are identified hardware assets risk sou
 <img width="1738" height="652" alt="image" src="https://github.com/user-attachments/assets/9450f71b-bffc-49dc-9b53-3424ba447131" />
 
 ### Software Risk Assessment
+<img width="1797" height="585" alt="image" src="https://github.com/user-attachments/assets/0927636b-5c67-4fc0-b04c-417e5e0071c4" />
 
 ---
