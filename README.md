@@ -2,7 +2,7 @@
 <img width="2048" height="1127" alt="image" src="https://github.com/user-attachments/assets/73c4c696-52b4-4a11-8cf0-3ac62e46999b" />
 
 # Introduction 
-In this project, we simulate the implementation of strong security protocols for your organisation’s call center operations. This requires conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
+ This project focuses on implementing strong security protocols for call center operations. This includes conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
 
 ---
 # Problem Statement
@@ -15,15 +15,19 @@ The client has a fence around the perimeter of its property and a padlock on its
 
 ---
 # Tasks
-
+1. Perform a Risk Assessment:
+- Identify potential threats that may disrupt the call center’s operations, such as unauthorized access to customer information, system failures, or regulatory compliance issues.
+- Analyse the identified risks by assessing their likelihood and potential impact on business operations.
+- Prioritise the risks by evaluating their severity to determine which require immediate attention.
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
-- Define the likelihood, consequence and risk rating for each potential risk scenario (Define the risk matrix).
-- Identify specific risks that the client needs to protect their assets from. i.e, cyberattack, natural disaster or employee negligence.
-- Assess risk rating for each risk scenario – Calculate the inherent risk rating for each scenario, assuming there are no measures in place to reduce the risk (without fence and padlock in place).
-- Assess risk levels for each risk scenario with additional measures:**
-- Create a risk assessment report for the client that summarises the risk assessment findings**
 
----
+2. Prepare a Risk Treatment Plan Request:
+- Based on your assessment, draft a formal request for risk treatment, directed to the appropriate departments (e.g., IT, HR, Operations).
+- Include clear recommendations for reducing or eliminating the identified risks, such as introducing new security measures, revising policies, or training staff.
+
+3. Prepare Risk Assessment Report and Risk Treatment Plan Request
+ - Create a comprehensive document that details the identified risks, their likelihood and their potential impact on the call center.
+- Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
 ### Identification of Critical Assets
 
