@@ -61,6 +61,10 @@ Call centers handle sensitive customer and business information, making them a t
  -System Administrators
 
 ---
+## Colour Coding Legend
+<img width="682" height="135" alt="Colour Coding Legend" src="https://github.com/user-attachments/assets/4b5a5e56-06c8-41a9-b163-cc41d73253ae" />
+
+Based on the Asset Inventory above, here are identified hardware assets risk sources, vulnerabilities, threats and current controls.
 
 ### Hardware Risk Assessment
 Based on the Asset Inventory above, here are identified hardware assets risk sources, vulnerabilities, threats and current controls.
