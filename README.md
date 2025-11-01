@@ -27,33 +27,33 @@ Call centers handle sensitive customer and business information, making them a t
  - Create a comprehensive document that details the identified risks, their likelihood and their potential impact on the call center.
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
-### Identification of Critical Assets
+### Assets Inventory
 
 1. Assets in a Call Center
 **Hardware**
-Workstations (Computers)
-Telephony systems (PBX, VoIP Phones)
-Servers (Database, Web, Application)
-Network devices (Routers, Switches, Firewalls)
-Mobile devices (Tablets, Smartphones)
-Printers, Scanners
-Power backup systems (UPS, Generators)
+- Workstations (Computers)
+- Telephony systems (PBX, VoIP Phones)
+- Servers (Database, Web, Application)
+- Network devices (Routers, Switches, Firewalls)
+- Mobile devices (Tablets, Smartphones)
+- Printers, Scanners
+- Power backup systems (UPS, Generators)
 
 **Systems**
-Customer Relationship Management (CRM) Systems
-Call Management Systems
-Workforce Management Systems
-VoIP Systems
-Email Systems
-Monitoring and Logging Systems
+- Customer Relationship Management (CRM) Systems
+- Call Management Systems
+- Workforce Management Systems
+- VoIP Systems
+- Email Systems
+- Monitoring and Logging Systems
 
 **Software**
-Operating Systems (Windows, Linux)
-Anti-virus and Anti-malware Software
-Office Productivity Software
-Customer Service Applications
-Custom Business Applications
-Database Management Systems
+- Operating Systems (Windows, Linux)
+- Anti-virus and Anti-malware Software
+- Office Productivity Software
+ - Customer Service Applications
+- Custom Business Applications
+- Database Management Systems
 
 **People**
 - Call Handlers
