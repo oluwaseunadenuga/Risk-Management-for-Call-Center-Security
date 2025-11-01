@@ -8,41 +8,39 @@ In this project, we simulate the implementation of strong security protocols for
 # Problem Statement
 The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
 
-# Objective
+# Objectives
 - Tenable (enterprise vulnerability management platform)
 - Azure Virtual Machines (Nessus scan engine + scan targets)
 - PowerShell & BASH (remediation scripts)
 
 ---
+# Tasks
 
-
-# Table of Contents
-
-- [Vulnerability Management Policy Draft Creation](#vulnerability-management-policy-draft-creation)
-- [Mock Meeting: Policy Buy-In (Stakeholders)](#step-2-mock-meeting-policy-buy-in-stakeholders)
-- [Policy Finalisation and Senior Leadership Sign-Off](#step-3-policy-finalisation-and-senior-leadership-sign-off)
-- [Mock Meeting: Initial Scan Permission (Server Team)](#step-4-mock-meeting-initial-scan-permission-server-team)
-- [Initial Scan of Server Team Assets](#step-5-initial-scan-of-server-team-assets)
-- [Vulnerability Assessment and Prioritisation](#step-6-vulnerability-assessment-and-prioritisation)
-- [Distributing Remediations to Remediation Teams](#step-7-distributing-remediations-to-remediation-teams)
-- [Mock Meeting: Post-Initial Discovery Scan (Server Team)](#step-8-mock-meeting-post-initial-discovery-scan-server-team)
-- [Mock CAB Meeting: Implementing Remediations](#step-9-mock-cab-meeting-implementing-remediations)
-- [Remediation Round 1: Outdated Wireshark Removal](#remediation-round-1-outdated-wireshark-removal)
-- [Remediation Round 2: Insecure Protocols & Ciphers](#remediation-round-2-insecure-protocols--ciphers)
-- [Remediation Round 3: Guest Account Group Membership](#remediation-round-3-guest-account-group-membership)
-- [Remediation Round 4: Windows OS Updates](#remediation-round-4-windows-os-updates)
-- [First Cycle Remediation Effort Summary](#first-cycle-remediation-effort-summary)
+- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
+- Define the likelihood, consequence and risk rating for each potential risk scenario (Define the risk matrix).
+- Identify specific risks that the client needs to protect their assets from. i.e, cyberattack, natural disaster or employee negligence.
+- Assess risk rating for each risk scenario – Calculate the inherent risk rating for each scenario, assuming there are no measures in place to reduce the risk (without fence and padlock in place).
+- Assess risk levels for each risk scenario with additional measures:**
+- Create a risk assessment report for the client that summarises the risk assessment findings**
 
 ---
 
-### Vulnerability Management Policy Draft Creation
+### Identification of Critical Assets
 
 This phase focuses on drafting a Vulnerability Management Policy as a starting point for stakeholder engagement and collaboration. The initial draft outlines scope, responsibilities and remediation timelines. It may be adjusted based on feedback from relevant departments to ensure practical implementation before final approval by upper management.  
 [Draft Policy](https://docs.google.com/document/d/1j4WyDX3NXpOiAb-_8i-t_xvLJj5v0F6W/edit)
+Based on the problem statement, the following critical assets were identified as requiring protection. The compromise of these assets could lead to significant operational, financial, and reputational damage to the organisation.
+- **Confidential Customer Data: Personal and sensitive information belonging to customers.**
+- Sensitive Information: Intellectual property, internal communications, and strategic plans.**
+- **Proprietary Business Information: Internal data that provides a competitive advantage.**
+- **Financial Information: Company financial records, transaction data, and banking details.**
+- **Intellectual Property: Patents, trade secrets, designs, and proprietary software.**
+- Customer Data: Personally Identifiable Information (PII) and financial records.** 
+- ** Physical Infrastructure & Equipment: Servers, network hardware, and other critical physical assets.**
 
 ---
 
-### Step 2) Mock Meeting: Policy Buy-In (Stakeholders)
+### Step 2.  Mock Meeting: Policy Buy-In (Stakeholders)
 
 In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
 
