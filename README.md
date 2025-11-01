@@ -29,7 +29,6 @@ Call centers handle sensitive customer and business information, making them a t
 
 ### Assets Inventory
 
-1. Assets in a Call Center
 **Hardware**
 - Workstations (Computers)
 - Telephony systems (PBX, VoIP Phones)
