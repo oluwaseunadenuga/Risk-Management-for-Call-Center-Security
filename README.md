@@ -9,7 +9,7 @@
 Call centers handle sensitive customer and business information, making them a target for security threats such as unauthorised access, data breaches and system failures. Currently, there is no comprehensive framework in place to safeguard data and ensure secure operations. This exposes the organisation to risks including data loss, reputational damage, operational downtime and regulatory non-compliance. Emerging threats, remote work setups and third-party integrations further increase the center’s vulnerability. A structured risk assessment is needed to identify, analyse, and prioritise these risks effectively. The findings will guide the implementation of strong security protocols to protect customer data, ensure compliance and maintain business continuity.
 
 # Objectives
-- The goal of the risk assessment is to help the client prioritise and implement strong security protocols for their organisation’s call center operation. By identifying potential threats that may disrupt the call center’s operations, analyse identified risks and evaluating the approach to manage them methodically.
+- The goal of the risk assessment is to help the client prioritise and implement strong security protocols for their organisation’s call center operation by identifying potential threats that may disrupt the call center’s operations, analyse identified risks and evaluating the approach to manage them methodically.
 - 
 ---
 # Tasks
