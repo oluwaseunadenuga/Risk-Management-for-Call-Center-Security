@@ -23,7 +23,7 @@ Call centers handle sensitive customer and business information, making them a t
 - Based on your assessment, draft a formal request for risk treatment, directed to the appropriate departments (e.g., IT, HR, Operations).
 - Include clear recommendations for reducing or eliminating the identified risks, such as introducing new security measures, revising policies, or training staff.
 
-3. **Prepare Risk Assessment Report and Risk Treatment Plan Request**
+3. **Prepare Risk Assessment Report**
  - Create a comprehensive document that details the identified risks, their likelihood and their potential impact on the call center.
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
@@ -62,9 +62,10 @@ Call centers handle sensitive customer and business information, making them a t
 
 ---
 
-### Step 2.  Mock Meeting: Policy Buy-In (Stakeholders)
+### Hardware Risk Assessment
+ Here are the risk sources, vulnerabilities, Threats, and Current Controls for identified hardware assets
 
-In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
+<img width="1492" height="355" alt="image" src="https://github.com/user-attachments/assets/04256a45-0701-47b3-ba79-d22912426914" />
 
 ---
 
