@@ -19,7 +19,7 @@ Call centers handle sensitive customer and business information, making them a t
 - Prioritise the risks by evaluating their severity to determine which require immediate attention.
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
 
-2.**Prepare a Risk Treatment Plan Request:**
+2. **Prepare a Risk Treatment Plan Request:**
 - Based on your assessment, draft a formal request for risk treatment, directed to the appropriate departments (e.g., IT, HR, Operations).
 - Include clear recommendations for reducing or eliminating the identified risks, such as introducing new security measures, revising policies, or training staff.
 
