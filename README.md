@@ -1,7 +1,7 @@
 # Implementing Risk-Management Strategies for a Call Center Security
 
 
-In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
+In this project, we simulate the implementation of strong security protocols for your organisation’s call center operations. This requires conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
 
 _**Inception State:**_ the organisation has no existing policy or vulnerability management practices in place.
 
