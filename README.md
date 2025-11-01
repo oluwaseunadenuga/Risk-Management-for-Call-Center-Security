@@ -1,16 +1,14 @@
 # Implementing Risk-Management Strategies for a Call Center Security
-
-
-In this project, we simulate the implementation of strong security protocols for your organisation’s call center operations. This requires conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
-
-_**Inception State:**_ the organisation has no existing policy or vulnerability management practices in place.
-
-_**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secured and a full cycle of organisation-wide vulnerability remediation is completed.
-
----
 <img width="2048" height="1127" alt="image" src="https://github.com/user-attachments/assets/73c4c696-52b4-4a11-8cf0-3ac62e46999b" />
 
-# Technology Utilised
+# Introduction 
+In this project, we simulate the implementation of strong security protocols for your organisation’s call center operations. This requires conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
+
+---
+# Problem Statement
+The client has a fence around the perimeter of its property and a padlock on its entrance gate to prevent unauthorised access. However, the leadership team is concerned about potential risks and vulnerabilities that could compromise the security of its information and systems. They require a comprehensive risk assessment to identify potential security threats and vulnerabilities in their system or network.
+
+# Objective
 - Tenable (enterprise vulnerability management platform)
 - Azure Virtual Machines (Nessus scan engine + scan targets)
 - PowerShell & BASH (remediation scripts)
