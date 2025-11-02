@@ -78,3 +78,6 @@ FROM: [Your Name/GRC Department]
 SUBJECT: URGENT ACTION REQUIRED: Treatment of Extreme Risks (Score>=16)
 
 This section formally communicates the two Extreme Risks that require immediate, prioritized, and funded treatment plans. The departments listed below are mandated to collaborate to reduce the residual risk score for these items to a score of 8 (High) or lower within the next 6 months.
+<img width="1484" height="557" alt="image" src="https://github.com/user-attachments/assets/a004e03c-6148-4e07-ada5-0f05d3366c34" />
+<img width="837" height="310" alt="image" src="https://github.com/user-attachments/assets/473c8245-1e02-4481-be86-dd832037bf35" />
+
