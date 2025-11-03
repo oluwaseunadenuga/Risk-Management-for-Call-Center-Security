@@ -6,10 +6,10 @@
 
 ---
 # Problem Statement
-Call centers handle sensitive customer and business information, making them targets for security threats such as unauthorised access, data breaches, and system failures. Currently, there is no comprehensive framework in place to safeguard data and ensure secure operations. This exposes the organisation to risks including data loss, reputational damage, operational downtime and regulatory non-compliance. Emerging threats, remote work setups and third-party integrations further increase the center’s vulnerability. A structured risk assessment is needed to identify, analyse, and prioritise these risks effectively. The findings will guide the implementation of strong security protocols to protect customer data, ensure compliance and maintain business continuity.
+Call centers handle sensitive customer and business information, making them targets for security threats such as unauthorised access, data breaches and system failures. Currently, there is no comprehensive framework in place to safeguard data and ensure secure operations. This exposes the organisation to risks including data loss, reputational damage, operational downtime and regulatory non-compliance. Emerging threats, remote work setups and third-party integrations further increase the center’s vulnerability. A structured risk assessment is needed to identify, analyse and prioritise these risks effectively. The findings will guide the implementation of strong security protocols to protect customer data, ensure compliance and maintain business continuity.
 
 # Objectives
-- The goal of the risk assessment is to help the client prioritise and implement strong security protocols for their organisation’s call center operation by identifying potential threats that may disrupt the call center’s operations, analyse identified risks and evaluating the approach to manage them methodically.
+- The goal of this project is to help the client prioritise and implement strong security protocols for their organisation’s call center operation by identifying potential threats that may disrupt the call center’s operations, analysing identified risks and evaluating the approach to manage them methodically.
 
 ---
 # Tasks
@@ -17,10 +17,10 @@ Call centers handle sensitive customer and business information, making them tar
 - Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
 - Analyse the identified risks by assessing their likelihood and potential impact on business operations.
 - Prioritise the risks by evaluating their severity to determine which require immediate attention.
-- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets that are important to the client.
+- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets important to the client.
 
 2. **Prepare a Risk Treatment Plan Request:**
-- Based on your assessment, draft a formal request for risk treatment, directed to the appropriate departments (e.g., IT, HR, Operations).
+- Based on the assessment, a formal request for risk treatment would be created and directed to the appropriate departments (e.g., IT, HR, Operations).
 - Include clear recommendations for reducing or eliminating the identified risks, such as introducing new security measures, revising policies, or training staff.
 
 3. **Prepare Risk Assessment Report**
