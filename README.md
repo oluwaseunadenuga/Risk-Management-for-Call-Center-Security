@@ -86,4 +86,6 @@ This section formally communicates the two Extreme Risks that require immediate,
 
 **Next Steps:**
 
-Department Heads are required to acknowledge receipt of this request and provide an initial progress update to the GRC function within 14 days.
+Departmental Heads are required to acknowledge receipt of this request and provide an initial progress update to the GRC function within 14 days. 
+
+Thanks
