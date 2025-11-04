@@ -63,6 +63,7 @@ The goal of this project is to help the client prioritise and implement strong s
 ---
 ## 2. Colour Coding Legend
 <img width="682" height="135" alt="Colour Coding Legend" src="https://github.com/user-attachments/assets/4b5a5e56-06c8-41a9-b163-cc41d73253ae" />
+
 Risk Score (R) is calculated as $L \times I$. Risk tolerance dictates that scores of 15-25 (Red) are Intolerable and require immediate treatment.
 
 ### 3. Comprehensive Risk Register Summary
