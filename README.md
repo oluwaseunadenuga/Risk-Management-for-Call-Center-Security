@@ -75,7 +75,9 @@ The following table summarises all identified risks, their scores, and their pot
 ### 4. Formal Request for High-Priority Risk Treatment (Score >=16)
 
 **TO: Head of IT Infrastructure, Head of Human Resources (HR), Head of Call Centre Operations**
+
 **FROM: [Your Name/GRC Department]**
+
 **SUBJECT: URGENT ACTION REQUIRED: Treatment of Extreme Risks (Score>=16)**
 
 This section formally communicates the two Extreme Risks that require immediate, prioritized, and funded treatment plans. The departments listed below are mandated to collaborate to reduce the residual risk score for these items to a score of 8 (High) or lower within the next 6 months.
