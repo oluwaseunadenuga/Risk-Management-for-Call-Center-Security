@@ -28,7 +28,7 @@ The goal of this project is to help the client prioritise and implement strong s
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
 ### 1.0 Assets Register
-<img width="1788" height="445" alt="image" src="https://github.com/user-attachments/assets/edfcba8f-bb2a-4638-85cf-e8cd401cdfd7" />
+<img width="1784" height="507" alt="image" src="https://github.com/user-attachments/assets/bf883324-8cec-4786-b032-801259a4d1e8" />
 
 ---
 ## 2. Colour Coding Legend
