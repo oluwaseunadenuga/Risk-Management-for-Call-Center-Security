@@ -27,39 +27,8 @@ The goal of this project is to help the client prioritise and implement strong s
  - Create a comprehensive document that details the identified risks, their likelihood and their potential impact on the call center.
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
-### 1.0 Assets Inventory
+### 1.0 Assets Register
 <img width="1788" height="445" alt="image" src="https://github.com/user-attachments/assets/edfcba8f-bb2a-4638-85cf-e8cd401cdfd7" />
-
-**Hardware**
-- Workstations (Computers)
-- Telephony systems (PBX, VoIP Phones)
-- Servers (Database, Web, Application)
-- Network devices (Routers, Switches, Firewalls)
-- Mobile devices (Tablets, Smartphones)
-- Printers, Scanners and Fax Machines
-- Power backup systems (UPS, Generators)
-
-**Systems**
-- Customer Relationship Management (CRM) Systems
-- Call Management Systems
-- Workforce Management Systems
-- VoIP Systems
-- Email Systems
-- Monitoring and Logging Systems
-
-**Software**
-- Operating Systems (Windows, Linux)
-- Anti-virus and Anti-malware Software
-- Office Productivity Software
-- Customer Service Applications
-- Custom Business Applications
-- Database Management Systems
-
-**People**
-- Call Handlers / Agents (Call Center Representatives)
-- Supervisors
-- IT Support Staff
- -System Administrators
 
 ---
 ## 2. Colour Coding Legend
