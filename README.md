@@ -85,4 +85,5 @@ This section formally communicates the two Extreme Risks that require immediate,
 <img width="837" height="310" alt="image" src="https://github.com/user-attachments/assets/473c8245-1e02-4481-be86-dd832037bf35" />
 
 **Next Steps:**
+
 Department Heads are required to acknowledge receipt of this request and provide an initial progress update to the GRC function within 14 days.
