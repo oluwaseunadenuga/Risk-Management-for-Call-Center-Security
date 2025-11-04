@@ -28,7 +28,7 @@ The goal of this project is to help the client prioritise and implement strong s
 - Create a formal request outlining proposed actions to mitigate the risks, tailored for the relevant departments to implement.
 
 ### 1.0 Assets Inventory
-<img width="1676" height="510" alt="image" src="https://github.com/user-attachments/assets/e7c4547a-8747-46d0-900a-61d22765f5f1" />
+<img width="1788" height="445" alt="image" src="https://github.com/user-attachments/assets/edfcba8f-bb2a-4638-85cf-e8cd401cdfd7" />
 
 **Hardware**
 - Workstations (Computers)
