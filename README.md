@@ -29,6 +29,7 @@ The goal of this project is to help the client prioritise and implement strong s
 
 ### 1.0 Assets Register
 <img width="1784" height="507" alt="image" src="https://github.com/user-attachments/assets/bf883324-8cec-4786-b032-801259a4d1e8" />
+<img width="1786" height="693" alt="image" src="https://github.com/user-attachments/assets/697cbe14-cafb-45b3-988c-8d61a1c2af39" />
 
 ---
 ## 2. Colour Coding Legend
