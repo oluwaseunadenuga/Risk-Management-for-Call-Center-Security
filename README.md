@@ -29,7 +29,35 @@ The goal of this project is to help the client prioritise and implement strong s
 
 ### 1.0 Assets Register
 <img width="1786" height="693" alt="image" src="https://github.com/user-attachments/assets/697cbe14-cafb-45b3-988c-8d61a1c2af39" />
-<img width="1786" height="693" alt="image" src="https://github.com/user-attachments/assets/aa00355b-a327-4765-b8a9-1764c9ef69b0" />
+Asset ID	Asset Name	Category	Description	Asset Owner	Asset Location	Confidentiality Rating	Integrity Rating	Availability Rating
+1	Workstations (Computers)	Hardware	Computers used by call center employees to handle calls.	Operations Dept.	Call Centre Floor	Medium	Medium	High
+2	Telephony Systems (PBX, VoIP Phones)	Hardware	Phone systems used for handling customer calls and internal communications.	IT Department	Call Centre Floor	Medium	High	High
+3	Servers (Database, Web, Application)	Hardware	Servers hosting databases, web services, and business applications.	IT Department	Data Center	High	High	High
+4	Network Devices (Routers, Switches, Firewalls)	Hardware	Routers, switches and firewalls used in call center operations.	IT Department	Call Center Premises	High	High	High
+5	Mobile Devices (Tablets, Smartphones)	Hardware	Mobile devices used by supervisors and field agents for remote operations.	IT Department	Office & Remote	Medium	Medium	Medium
+6	Printers, Scanners, Fax Machines	Hardware	Office equipment used for document handling and information exchange.	Facilities Dept.	Office Floor	Low	Medium	Medium
+7	Power Backup Systems (UPS, Generators)	Hardware	Systems providing backup power during outages.	Facilities Dept.	Building Utility Room	Low	High	High
+8	Customer Relationship Management (CRM) Systems	System	Customer Relationship Management software used to track cases.	IT Department	Cloud	Critical	High	High
+9	Call Management Systems(Call Centre Software)	System	Software used for handling customer calls and managing tickets.	IT Department	Data Center	High	High	High
+10	Workforce Management Systems	System	Applications for scheduling, attendance, and performance monitoring.	HR Department	Cloud	Medium	Medium	High
+11	Email Systems	System	Platforms for internal and external business communication.	IT Department	Cloud/Internal Network	High	High	High
+12	Monitoring and Logging Systems	System	Tools for tracking system health, security events, and performance.	IT Security Dept.	Data Center	High	High	Medium
+13	Operating Systems (Windows, Linux)	Software	Core software managing hardware and application execution.	IT Department	All Devices	High	High	High
+14	Anti-virus and Anti-malware Software	Software	Software protecting systems from malicious threats.	IT Security Dept.	All Devices	High	High	High
+15	Office Productivity Software	Software	Tools like MS Office or Google Workspace for daily tasks.	IT Department	All Devices	Medium	Medium	High
+16	Call Recording System	Software	System for recording and storing customer calls for compliance.	IT Department	Internal Network	High	Medium	Medium
+17	Custom Business Applications	Software	In-house developed tools tailored for specific business operations.	IT Department	Internal Network	High	High	Medium
+18	Database Management Systems	Software	Systems used to manage, store, and retrieve data efficiently.	IT Department	Data Center	High	High	High
+19	Call Handlers / Agents	People	Employees responsible for handling inbound/outbound customer calls.	Operations Dept.	Office Floor	Medium	Medium	High
+20	Supervisors	People	Staff overseeing call agents and ensuring service quality.	Operations Dept.	Office Floor	Medium	Medium	High
+21	IT Support Staff / System Administrators	People	Personnel responsible for managing and maintaining IT systems.	IT Department	Office & Remote	High	High	High
+22	Physical Security System	Physical	CCTV and access control systems for securing the call center.	Security Dept.	Call Center Premises	Medium	Medium	High
+23	Employee Credentials	Information	Employee usernames and passwords for accessing systems.	HR Department	Internal Network	Critical	High	High
+24	Backup Systema	Hardware	Systems used to back up critical call center data and operations.	IT Department	Data Center	High	High	High
+25	Compliance Documentation	Information	Documents ensuring regulatory compliance (e.g., GDPR, PCI DSS).	Legal Dept.	Cloud/Internal Network	Critical	High	Medium
+26	Employee Training Records	Information	Records of employee training related to security and compliance.	HR Department	Internal Network	Medium	Medium	Medium
+<img width="2238" height="883" alt="image" src="https://github.com/user-attachments/assets/b6c978b7-6eae-4ee4-bd35-6533c900a9d9" />
+
 
 ---
 ## 2. Colour Coding Legend
