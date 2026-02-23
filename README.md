@@ -34,7 +34,8 @@ The goal of this project is to identify, analyse and evaluate potential risks to
 ---
 ## 2. Colour Coding Legend
 <img width="682" height="135" alt="Colour Coding Legend" src="https://github.com/user-attachments/assets/4b5a5e56-06c8-41a9-b163-cc41d73253ae" />
-Risk Score (R) is calculated as $L \times I$. Risk tolerance dictates that scores of 15-25 (Red) are Intolerable and require immediate treatment.
+
+Risk Score (R) is calculated as Likelihood *Impact. Risk tolerance dictates that scores of 15-25 (Red) are Intolerable and require immediate treatment.
 
 ### 3. Comprehensive Risk Register Summary
 The following table summarises all identified risks, their scores, and their potential impact on call centre operations, regulatory compliance, and business continuity.
@@ -56,6 +57,6 @@ This section formally communicates the two Extreme Risks that require immediate,
 
 **Next Steps:**
 
-Departmental Heads are required to acknowledge receipt of this request and provide an initial progress update to the GRC function within 14 days. 
+Departmental Heads will need to let them know they received this request and provide an initial progress update to the GRC function within 14 days. 
 
 Thanks
